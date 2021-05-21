@@ -1,4 +1,4 @@
-# Differences between if-else and swutch-case
+# Differences between if-else and switch-case
 The difference between these two is that in one you have only two conditions, 
 which if it is true it will do one thing and if it is false it will do something 
 else or simply do nothing, and in the other it is a menu control which you have 
